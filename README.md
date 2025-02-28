@@ -7,3 +7,5 @@ David Isaac Segura Sánchez SS231442
 Omar Arturo Maldonado Guzman MG220764
 Yesenia Lizbeth Hernández Portillo HP240153
 Cristina Aracely Perez Lué PL240092 
+ENLACE DEL VIDEO DE PRESENTACION
+https://drive.google.com/file/d/1BzBYBdamkGJGqe4LAeue_Yq8dPh3ZtvE/view?usp=sharing
