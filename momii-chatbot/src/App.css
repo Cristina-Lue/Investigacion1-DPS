@@ -1,0 +1,44 @@
+/* src/App.css */
+.momii-chatbot {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  margin: 0 auto;
+  border: 1px solid #181517;
+  padding: 10px;
+}
+
+.chat-window {
+  max-height: 500px;
+  overflow-y: auto;
+  margin-bottom: 20px;
+}
+
+.message {
+  padding: 8px;
+  margin: 5px 0;
+}
+
+.message.user {
+  background-color: #ebc1d6;
+  text-align: right;
+}
+
+.message.momii {
+  background-color: #7fd494;
+}
+
+input {
+  padding: 8px;
+  margin-bottom: 10px;
+}
+
+button {
+  padding: 8px;
+  cursor: pointer;
+  background-color: #e8edf7;
+}
+
+h1 {
+  text-align: center;
+}
