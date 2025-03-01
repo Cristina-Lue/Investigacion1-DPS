@@ -9,3 +9,4 @@ Yesenia Lizbeth Hernández Portillo HP240153
 Cristina Aracely Perez Lué PL240092 
 ENLACE DEL VIDEO DE PRESENTACION
 https://drive.google.com/file/d/1BzBYBdamkGJGqe4LAeue_Yq8dPh3ZtvE/view?usp=sharing
+https://gamma.app/docs/INVESTIGACION-APLICADA-1-o81k35qilo13zf6
